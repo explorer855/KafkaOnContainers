@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/Dockerized_KAFKA/FileContentIndex
+/.vs/Dockerized_KAFKA/v17
+/.vs/slnx.sqlite
+*.json
+/.vs
